@@ -1,0 +1,14 @@
+# Ignore Library-System-Management---P2 folder
+Library-System-Management---P2/
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
